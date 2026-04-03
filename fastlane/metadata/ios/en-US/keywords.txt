@@ -1,1 +1,1 @@
-aesthetics,AI,visual intelligence,style,beauty scoring,computer vision
+AI,aiaesthetics,automation,platform,mobile
